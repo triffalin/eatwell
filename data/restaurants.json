@@ -1,1 +1,23 @@
-[{"name":"test","address":"test 5, testcity","cuisine":"italian","website":"https://mytest.com","description":"beautiful restaurant"},{"name":"awesome 2","address":"test street, testcity2","cuisine":"indian","website":"https://mygreattest.com","description":"also amazing"},{"name":"restaurant 3","address":"street 3, testcity3","cuisine":"mexican","website":"https://mexicanfood.com","description":"amazing Mexican food"}]
+[
+	{
+		"name": "test",
+		"address": "test 5, testcity",
+		"cuisine": "italian",
+		"website": "https://mytest.com",
+		"description": "beautiful restaurant"
+	},
+	{
+		"name": "awesome 2",
+		"address": "test street, testcity2",
+		"cuisine": "indian",
+		"website": "https://mygreattest.com",
+		"description": "also amazing"
+	},
+	{
+		"name": "restaurant 3",
+		"address": "street 3, testcity3",
+		"cuisine": "mexican",
+		"website": "https://mexicanfood.com",
+		"description": "amazing Mexican food"
+	}
+]
