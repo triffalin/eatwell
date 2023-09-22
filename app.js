@@ -26,6 +26,11 @@ app.get('/restaurants', function (req, res) {
 	});
 });
 
+app.get('/restaurants/:id', function (req, res) {
+	const restaurandID = req.params.id;
+	res.render('restaurant-detail', { rid: restaurandID });
+});
+
 app.get('/recommend', function (req, res) {
 	res.render('recommend');
 });
